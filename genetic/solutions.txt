@@ -1,0 +1,17 @@
+Enter no. of students: 
+group 1 
+83
+ group 2:
+11
+ group 3 : 
+50
+ fitness : 58  
+GROUP-1 student 2 : 68
+student 5 : 82
+student 6 : 83
+student 8 : 95
+GROUP-2 student 0 : 11
+student 4 : 15
+GROUP-3 student 1 : 50
+student 3 : 39
+student 7 : 65
